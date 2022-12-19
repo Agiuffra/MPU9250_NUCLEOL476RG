@@ -1,0 +1,13 @@
+../Core/Src/main.c:138:5:main	16	static
+../Core/Src/main.c:192:6:SystemClock_Config	96	static
+../Core/Src/main.c:242:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:290:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:325:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:362:9:MPU_begin	48	static
+../Core/Src/main.c:409:6:MPU_writeAccFullScaleRange	40	static
+../Core/Src/main.c:448:6:MPU_writeGyroFullScaleRange	40	static
+../Core/Src/main.c:486:6:MPU_readRawData	56	static
+../Core/Src/main.c:507:6:MPU_calibrateGyro	32	static
+../Core/Src/main.c:538:6:MPU_readProcessedData	16	static
+../Core/Src/main.c:561:6:MPU_calcAttitude	32	static
+../Core/Src/main.c:581:6:Error_Handler	4	static,ignoring_inline_asm
